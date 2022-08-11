@@ -48,6 +48,6 @@ async def tr(ctx):
         tempnum+=1
     await ctx.send(embed=finish_embed)
 
-client.run("NzY5OTY4NzU3NDQyNjA5MjEz.X5WvSQ.xnPk0Oqd_07qPHchSTYpsdRL3ck")
+client.run(token)
     
 

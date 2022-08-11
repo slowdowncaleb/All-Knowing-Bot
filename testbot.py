@@ -154,5 +154,5 @@ async def on_reaction_add(message):
     if message in rolemessage.keys():
         role1=discord.utils.get(message.guild.roles,name=rolemessage[message])
 
-client.run("NzY5OTY4NzU3NDQyNjA5MjEz.X5WvSQ.xnPk0Oqd_07qPHchSTYpsdRL3ck")
+client.run(token)
 

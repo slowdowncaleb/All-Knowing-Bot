@@ -372,4 +372,4 @@ async def kick(ctx,member:discord.Member=None,*,why=None):
 
 
 
-client.run("NzY5OTY4NzU3NDQyNjA5MjEz.X5WvSQ.xnPk0Oqd_07qPHchSTYpsdRL3ck")
+client.run(token)

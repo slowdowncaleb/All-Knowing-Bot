@@ -5,12 +5,7 @@ from random import randint,choice
 client=commands.Bot(command_prefix= ",")
 
 reddit = praw.Reddit(
-    client_id="a3BHpd6NQhYLRQ",
-    client_secret="eN12PGEGghZkhoYefAEzfGa3kVAnqQ",
-    user_agent="redditpraw.py",
-    username="Watermel0nb0t",
-    password="WATERMELON",
-    check_for_async=False,
+    ####
 )
 reddit.read_only = True
 
